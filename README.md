@@ -1,6 +1,6 @@
 # my_app
 
-A new Flutter project.
+A Hello world app. A centered hello world string with cool backgroud gradient.
 
 ## Getting Started
 
