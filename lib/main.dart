@@ -1,11 +1,13 @@
 import 'package:flutter/material.dart';
 
+// main
 void main() {
   runApp(const MaterialApp(
     home: gradientWidget(),
   ));
 }
 
+/// The background color
 class gradientWidget extends StatelessWidget {
   const gradientWidget({super.key});
 
@@ -25,6 +27,7 @@ class gradientWidget extends StatelessWidget {
   }
 }
 
+/// Styled hello world text
 class styledText extends StatelessWidget {
   const styledText({super.key});
 
